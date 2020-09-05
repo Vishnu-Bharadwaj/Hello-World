@@ -1,2 +1,2 @@
-# Hello-World
-Coding "Hello World! :D"
+# HelloWorld.py
+print("Hello World! :D")
